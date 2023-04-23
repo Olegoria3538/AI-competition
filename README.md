@@ -1,5 +1,5 @@
 # AI-competition
-A test competition the idea of which is to write a character control script is arranged in terms of "Game artificial intelligence". The application hosting the competition is inspired by the Bomberman game. Participants are to develop a character behavior model that could create a competitive pursuit for other players.  
+A test competition the idea of which is to write a character control script is arranged in terms of "Game artificial intelligence". [The application](http://f0798392.xsph.ru/) hosting the competition is inspired by the Bomberman game. Participants are to develop a character behavior model that could create a competitive pursuit for other players.  
   
 A character can:  
 - Move in one of 4 directions: up, right, down, left  
@@ -22,8 +22,10 @@ The competition uses well-known maps, which can be found by following path `./sr
   
 AI scripts of the players are located in the following path `./src/ai-scripts`. The scripts are written in JavaScript.  
   
-The originating code for the application is here.
-<hr/>
+The originating [code for the application is here.](https://github.com/gershuk/AiBattle-V2.0)
+
+---
+
 В рамках предмета "Игровой искусственный интеллект", проводится тестовое соревнование по написанию скрипта управления игровым персонажем. 
 [Приложение](http://f0798392.xsph.ru/), в котором проводится соревнование, вдохновлено игрой bomberman.
 Участникам необходимо разработать модель поведения персонажа, которая могла бы создать конкуренцию другим игрокам. 
