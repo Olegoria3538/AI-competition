@@ -17,6 +17,7 @@ Rules and conditions:
 - If the player is left alone, 1 point is given for this
 - If there are several survivors, then 0.5 points are given to each of the survivors
 - The winner of the competition is the one who scored 3 points
+- If several players score 3 points at the same time, 3 games will be played between them. If a player is killed during the game, he flies out of the rest. If at the end of 3 games the winner is not determined, then all remaining players are considered the winner
 - Maps are selected in numerical order; if cards need to be repeated, the game continues from the first map  
 - If the map is provided for more players than the number of participants, the remaining places are filled with bots with random behavior  
   
@@ -50,6 +51,7 @@ The originating [code for the application is here.](https://github.com/gershuk/A
  - Если игрок остался в живых один, за это дается 1 балл
  - Если осталось в живых несколько, то дается 0.5 балла каждому из оставшихся в живых
  - Победителем соревнований считается тот, кто набрал 3 балла
+ - В случае если несколько игроков набирает 3 балла одновременно, между ними будет проведено 3 игры. Если игрока во время игру убивают, он вылетает из оставшихся. Если по истечению 3 игр победитель не определён, то победителем считаются все оставшиеся игроки
  - Карты выбираются по порядку, и если требуется повторение карт, игра продолжается с первой
  - Если карта предусмотрена на большее количество игроков, чем количество участников,  оставшиеся места заполняются ботами с рандомным поведением
 
