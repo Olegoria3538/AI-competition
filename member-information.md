@@ -4,7 +4,7 @@
 |----------------|-------------------------------|-----------------------------|
 |Baranova V.     |Vikki                          |                             |
 |Prokopas A.     |deadly_snail                   |                             |
-|Glushkov V.     |           -                   |                             |
+|Glushkov V.     |TrueFinch                      |                             |
 |Filimonov S.    |Hailrake                       |[Lukerrr/ai-task-bot](https://github.com/Lukerrr/ai-task-bot)                            |
 |Khodchenko A.   |Alex13g                        |                             |
 |Shilin V.       |3a38al0                        |                             |
