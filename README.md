@@ -12,7 +12,8 @@ All AI scripts must meet the following requirements:
 - The bot must be able to plant a bomb and aim to defeat other players  
   
 Rules and conditions:  
-- Deathmatch mode  
+- Deathmatch mode
+- Maximum number of moves 1 000
 - If the player is left alone, 1 point is given for this
 - If there are several survivors, then 0.5 points are given to each of the survivors
 - The winner of the competition is the one who scored 3 points
