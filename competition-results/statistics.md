@@ -1,9 +1,3 @@
-Statuses: 
-die - 0 point
-live - 0.5 point
-win - 1 point
-
-
 |Bot nickname    |All points                  |
 |----------------|----------------------------|
 |Vikki           |1.5                         |
