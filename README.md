@@ -13,7 +13,7 @@ All AI scripts must meet the following requirements:
   
 Rules and conditions:  
 - Deathmatch mode
-- Maximum number of moves 1 000
+- Maximum number of moves 500
 - If the player is left alone, 1 point is given for this
 - If there are several survivors, then 0.5 points are given to each of the survivors
 - The winner of the competition is the one who scored 3 points
@@ -47,7 +47,7 @@ The originating [code for the application is here.](https://github.com/gershuk/A
 Правила соревнований:
 
  - Режим deathmatch
- - Максимальное количество ходов 1 000
+ - Максимальное количество ходов 500
  - Если игрок остался в живых один, за это дается 1 балл
  - Если осталось в живых несколько, то дается 0.5 балла каждому из оставшихся в живых
  - Победителем соревнований считается тот, кто набрал 3 балла
