@@ -13,8 +13,9 @@ All AI scripts must meet the following requirements:
   
 Rules and conditions:  
 - Deathmatch mode  
-- The winner of the game session is a person who is the last one alive  
-- The winner of the competition is a person who wins the game session three times  
+- If the player is left alone, 1 point is given for this
+- If there are several survivors, then 0.5 points are given to each of the survivors
+- The winner of the competition is the one who scored 3 points
 - Maps are selected in numerical order; if cards need to be repeated, the game continues from the first map  
 - If the map is provided for more players than the number of participants, the remaining places are filled with bots with random behavior  
   
@@ -44,8 +45,10 @@ The originating [code for the application is here.](https://github.com/gershuk/A
 Правила соревнований:
 
  - Режим deathmatch
- - Победителем игровой сессии считается тот, кто остался последним в живых
- - Победителем соревнований считается тот, кто выиграл в игровой сессии три раза
+ - Максимальное количество ходов 1 000
+ - Если игрок остался в живых один, за это дается 1 балл
+ - Если осталось в живых несколько, то дается 0.5 балла каждому из оставшихся в живых
+ - Победителем соревнований считается тот, кто набрал 3 балла
  - Карты выбираются по порядку, и если требуется повторение карт, игра продолжается с первой
  - Если карта предусмотрена на большее количество игроков, чем количество участников,  оставшиеся места заполняются ботами с рандомным поведением
 
